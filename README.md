@@ -10,7 +10,7 @@
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/andriel-mark-da-silva-pinto-a715a1304/">
+    <a href="www.linkedin.com/in/andrielmark">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
