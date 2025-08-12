@@ -10,7 +10,7 @@
 
 
 <p align="left">
-    <a href="www.linkedin.com/in/andrielmark](https://www.linkedin.com/in/andrielmark/?trk=public-profile-join-page">
+    <a href="https://www.linkedin.com/in/andrielmark/?trk=public-profile-join-page">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
